@@ -1,6 +1,6 @@
 Kelompok 9 anggota :
 | Name           | NRP        | Kelas     |
-| ---            | ---        | ----------|
+| Amin Vinurdi    | 5025231241        | 5025231241 |
 | Rafaela Shyra Ashma' Ramadhani | 5025231217 | Pemrograman Berorientasi Objek (G) |
 | Triana Velia Hutabalian | 5025231190 | Pemrograman Berorientasi Objek (G) |
 
